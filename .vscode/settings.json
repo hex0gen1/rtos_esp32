@@ -1,0 +1,17 @@
+{
+    "idf.flashType": "JTAG",
+    "idf.currentSetup": "/home/hexogen/.espressif/v6.1/esp-idf",
+    "C_Cpp.errorSquiggles": "enabled",
+    "clangd.path": "/home/hexogen/.espressif/tools/esp-clangd/esp-21.1.3_20260408/esp-clangd/bin/clangd",
+    "clangd.arguments": [
+      "--background-index",
+      "--query-driver=**",
+      "--compile-commands-dir=/home/hexogen/projects/rtos_esp32/build"
+    ],
+    "idf.openOcdConfigs": [
+      "board/esp32s3-bridge.cfg"
+    ],
+    "idf.customExtraVars": {
+      "IDF_TARGET": "esp32s3"
+    }
+}

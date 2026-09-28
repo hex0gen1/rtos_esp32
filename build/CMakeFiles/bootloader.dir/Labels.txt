@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/hexogen/projects/rtos_esp32/build/CMakeFiles/bootloader
+/home/hexogen/projects/rtos_esp32/build/CMakeFiles/bootloader.rule
+/home/hexogen/projects/rtos_esp32/build/CMakeFiles/bootloader-complete.rule
+/home/hexogen/projects/rtos_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/hexogen/projects/rtos_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/hexogen/projects/rtos_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/hexogen/projects/rtos_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/hexogen/projects/rtos_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/hexogen/projects/rtos_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/hexogen/projects/rtos_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
